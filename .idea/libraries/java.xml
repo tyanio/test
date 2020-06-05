@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/opencv/build/install/java" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
