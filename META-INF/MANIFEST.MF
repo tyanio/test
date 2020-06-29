@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.5
+Created-By: 11.0.7+10-post-Ubuntu-2ubuntu218.04 (Ubuntu)
+Specification-Title: OpenCV
+Specification-Version: 4.3.0
+Implementation-Title: OpenCV
+Implementation-Version: unknown
+Implementation-Date: 月 6月 22 2020 15:32:02 JST
+
